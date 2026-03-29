@@ -1,0 +1,1026 @@
+{
+  "updated_at": "2026-03-29T13:32:30.294564",
+  "count": 102,
+  "events": [
+    {
+      "title": "宁波诺丁汉大学开放日",
+      "location": "宁波诺丁汉大学校园",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=4cf825bb-5344-4d77-885e-374127303c04&language=zh",
+      "date_start": "2026-04-11",
+      "date_end": "2026-04-11",
+      "time_start": "08:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "2025 smart X UNNC 智能车辆可持续发展改装竞赛",
+      "location": "新国际会议中心",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=aa26b9c7-bb6d-4904-a254-da0a5bf5df32&language=zh",
+      "date_start": "2025-12-17",
+      "date_end": "2025-12-17",
+      "time_start": "13:30",
+      "time_end": "16:45",
+      "description": ""
+    },
+    {
+      "title": "2025残障融合周｜『融碍筑桥，共创未来』",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=3068af4e-dd85-406f-991c-b05b93caf5ba&language=zh",
+      "date_start": "2025-12-01",
+      "date_end": "2025-12-06",
+      "time_start": "08:30",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "2025冬季毕业典礼",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=050174f3-a9b3-40f6-bf62-207b1afc73ba&language=zh",
+      "date_start": "2025-11-15",
+      "date_end": "2025-11-15",
+      "time_start": "08:00",
+      "time_end": "18:30",
+      "description": ""
+    },
+    {
+      "title": "2025夏季毕业典礼",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=bc11a8ff-02d6-4a54-a1e5-54ab4533d494&language=zh",
+      "date_start": "2025-07-12",
+      "date_end": "2025-07-13",
+      "time_start": "08:00",
+      "time_end": "18:30",
+      "description": ""
+    },
+    {
+      "title": "2025年国际计算智能基础与应用研讨会",
+      "location": "宁波诺丁汉大学",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=d5f10a50-b0c4-44e7-81a4-f0525b1280aa&language=zh",
+      "date_start": "2025-06-20",
+      "date_end": "2025-06-22",
+      "time_start": "18:00",
+      "time_end": "20:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学2025校园开放日报名开启",
+      "location": "宁波诺丁汉大学",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=c5a6fd69-6d11-4b7a-a096-3c8f3dc6a1c3&language=zh",
+      "date_start": "2025-04-12",
+      "date_end": "2025-04-12",
+      "time_start": "08:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学“残障融合”活动",
+      "location": "宁波诺丁汉大学",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=5e45d0dc-9a58-4682-ba59-1c02ceea5420&language=zh",
+      "date_start": "2024-12-01",
+      "date_end": "2024-12-06",
+      "time_start": "09:00",
+      "time_end": "16:30",
+      "description": ""
+    },
+    {
+      "title": "2024冬季毕业典礼",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=ffe59466-7527-462a-9b24-4ef59f57db65&language=zh",
+      "date_start": "2024-11-16",
+      "date_end": "2024-11-16",
+      "time_start": "08:30",
+      "time_end": "17:30",
+      "description": ""
+    },
+    {
+      "title": "2024夏季毕业典礼",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=7fe65e0d-0fc3-4bb2-9627-6f2f77afccbc&language=zh",
+      "date_start": "2024-07-13",
+      "date_end": "2024-07-14",
+      "time_start": "09:30",
+      "time_end": "16:30",
+      "description": ""
+    },
+    {
+      "title": "smart全球门店可持续运营设计方案竞赛",
+      "location": "新国际会议中心",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=3b05c8a7-ece3-43aa-85cf-c67b886d6830&language=zh",
+      "date_start": "2024-06-06",
+      "date_end": "2024-06-06",
+      "time_start": "13:30",
+      "time_end": "17:20",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学科技成果转化路演暨产业投资对接会",
+      "location": "图书馆多功能厅1号",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=23fa2185-3b7c-476e-b9a0-eaa667ee7437&language=zh",
+      "date_start": "2024-04-18",
+      "date_end": "2024-04-18",
+      "time_start": "13:00",
+      "time_end": "18:30",
+      "description": ""
+    },
+    {
+      "title": "2024宁波诺丁汉大学校园开放日",
+      "location": "宁波诺丁汉大学，中国浙江省宁波市泰康东路199号",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=6befa615-044b-42fc-b858-03ca0172b0c6&language=zh",
+      "date_start": "2024-04-14",
+      "date_end": "2024-04-14",
+      "time_start": "08:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学20周年校庆晚会",
+      "location": "主会场：劳伦斯报告厅 /    分会场：思源报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=f9322829-4179-4e6c-a8f1-bebf5ef56887&language=zh",
+      "date_start": "2024-04-13",
+      "date_end": "2024-04-13",
+      "time_start": "19:00",
+      "time_end": "21:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学校园咨询日",
+      "location": "迪林勋爵楼DB",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=e3f83fe2-2c7b-4797-bf54-325928af42bf&language=zh",
+      "date_start": "2024-03-09",
+      "date_end": "2024-03-09",
+      "time_start": "09:00",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "逐光而行 | 宁波诺丁汉大学2024新年直播",
+      "location": "微信，视频号，哔哩哔哩",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=c88d7a59-a03f-4b2a-88f4-ca7a564f9d82&language=zh",
+      "date_start": "2024-01-27",
+      "date_end": "2024-01-27",
+      "time_start": "09:00",
+      "time_end": "10:30",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学校园招生咨询日",
+      "location": "国际创新创业大楼",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=f0327946-389a-4b07-932a-6225367c254d&language=zh",
+      "date_start": "2024-01-06",
+      "date_end": "2024-01-06",
+      "time_start": "13:30",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学残障关爱周",
+      "location": "校园内多处地点",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=3261766d-dacf-4b92-a4e4-f723956e806d&language=zh",
+      "date_start": "2023-12-01",
+      "date_end": "2023-12-06",
+      "time_start": "00:00",
+      "time_end": "23:59",
+      "description": ""
+    },
+    {
+      "title": "2023年冬季毕业典礼",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=51485755-a79a-44d1-bd1a-38ea33f64f5d&language=zh",
+      "date_start": "2023-11-11",
+      "date_end": "2023-11-11",
+      "time_start": "10:30",
+      "time_end": "18:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学校园咨询日",
+      "location": "行政楼 209，国际创新创业大楼 101",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=458f14d0-2c1d-416f-9d89-9abe36992633&language=zh",
+      "date_start": "2023-11-04",
+      "date_end": "2023-11-04",
+      "time_start": "13:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学携宝洁德勤、剑桥芝大等名企名校向你奔赴而来",
+      "location": "宁波诺丁汉大学",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=1b0fa541-7f47-4ad9-a518-c19a8f79b442&language=zh",
+      "date_start": "2023-09-18",
+      "date_end": "2023-09-27",
+      "time_start": "18:30",
+      "time_end": "20:00",
+      "description": ""
+    },
+    {
+      "title": "UNUK毕业典礼补办",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=40d70f16-a4f0-4e94-8643-5328755b5400&language=zh",
+      "date_start": "2023-07-22",
+      "date_end": "2023-07-22",
+      "time_start": "09:30",
+      "time_end": "18:00",
+      "description": ""
+    },
+    {
+      "title": "2023 夏季毕业典礼",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=2de78117-89c3-4e17-8eac-59de9465e6e0&language=zh",
+      "date_start": "2023-07-15",
+      "date_end": "2023-07-16",
+      "time_start": "09:30",
+      "time_end": "16:30",
+      "description": ""
+    },
+    {
+      "title": "硕博招生 | 宁波诺丁汉大学2023年暑期硕博招生官面对面活动",
+      "location": "西安、重庆、青岛、北京、上海、烟台、广州",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=1f122cfa-5e9a-4b5e-8f90-10aeb26bac41&language=zh",
+      "date_start": "2023-06-11",
+      "date_end": "2023-08-05",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "5-HT 宁诺减压周",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=ec564c25-68cd-439c-b6bf-a13508d79e65&language=zh",
+      "date_start": "2023-04-24",
+      "date_end": "2023-04-29",
+      "time_start": "00:00",
+      "time_end": "23:59",
+      "description": ""
+    },
+    {
+      "title": "校园开放日2023",
+      "location": "宁波诺丁汉大学，中国浙江省宁波市泰康东路199号",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=752d8af4-24b2-4f10-809c-24117dc2c278&language=zh",
+      "date_start": "2023-04-08",
+      "date_end": "2023-04-08",
+      "time_start": "08:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "向着光，我们重启2022宁波诺丁汉大学残障关爱周",
+      "location": "校园内多处地点",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=7bf5cb24-9b2b-4c4a-837c-63be5c55e926&language=zh",
+      "date_start": "2023-03-11",
+      "date_end": "2023-03-17",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "硕博招生 | 宁波诺丁汉大学2023年春季硕博项目招生宣讲会",
+      "location": "上海、宁波、杭州、广州、北京、南京",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=3dc067b8-7033-4d43-968b-74958a8caf6d&language=zh",
+      "date_start": "2023-02-25",
+      "date_end": "2023-05-20",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "新年·向光而行 | 宁波诺丁汉大学直播倒计时，给您带来最新招生资讯",
+      "location": "微信，微博以及哔哩哔哩直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=e3d1eeea-9650-4d0e-acd8-9171e5bbb7df&language=zh",
+      "date_start": "2023-01-14",
+      "date_end": "2023-01-14",
+      "time_start": "09:00",
+      "time_end": "10:30",
+      "description": ""
+    },
+    {
+      "title": "硕博招生｜宁诺三大学院“金牌”导师助你挑选最合适的专业——2023申请季跨年直播预告",
+      "location": "线上直播",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=5270f5c1-d1e6-4d96-9e4b-eed66418ae36&language=zh",
+      "date_start": "2022-12-29",
+      "date_end": "2022-12-30",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2022冬季毕业典礼",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=e7ce7490-97f5-46f2-b362-458a02552c67&language=zh",
+      "date_start": "2022-11-12",
+      "date_end": "2022-11-12",
+      "time_start": "10:30",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "2022年秋季九城硕博项目招生活动",
+      "location": "杭州、南京、济南、广州、青岛、珠海、深圳、成都、上海",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=2f452371-bf50-4f4b-b011-00bb1a0a4eae&language=zh",
+      "date_start": "2022-10-23",
+      "date_end": "2022-10-30",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学2022级新生开学典礼",
+      "location": "线下典礼与线上直播",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=16801ae6-dc4f-4bb8-84be-ab155606520b&language=zh",
+      "date_start": "2022-09-13",
+      "date_end": "2022-09-13",
+      "time_start": "09:30",
+      "time_end": "15:00",
+      "description": ""
+    },
+    {
+      "title": "2022年夏季毕业典礼",
+      "location": "劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=13b21b45-fc51-4501-bb10-a3d2a93f2706&language=zh",
+      "date_start": "2022-07-09",
+      "date_end": "2022-07-10",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2022入学硕博新生见面会",
+      "location": "腾讯会议",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=99104236-16a9-49a4-8d31-c701efc4a7ec&language=zh",
+      "date_start": "2022-06-17",
+      "date_end": "2022-06-17",
+      "time_start": "15:00",
+      "time_end": "17:20",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学 人文社科学院硕博项目分享会",
+      "location": "腾讯会议",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=cef8b8f1-441a-4786-978f-4dee1b3b8ecd&language=zh",
+      "date_start": "2022-04-28",
+      "date_end": "2022-04-28",
+      "time_start": "18:30",
+      "time_end": "20:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学商学院 硕博项目分享会",
+      "location": "腾讯会议",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=1003c904-50ef-4ed8-be0d-722e9c04eda9&language=zh",
+      "date_start": "2022-04-19",
+      "date_end": "2022-04-19",
+      "time_start": "18:30",
+      "time_end": "20:00",
+      "description": ""
+    },
+    {
+      "title": "直播预告 | 宁波诺丁汉大学教授专家、学姐学长“云”端开讲， 邀您走近国际化校园",
+      "location": "微信，微博以及哔哩哔哩直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=635c15d8-2932-485e-bc09-30dc2353ca5e&language=zh",
+      "date_start": "2022-03-26",
+      "date_end": "2022-03-26",
+      "time_start": "09:00",
+      "time_end": "12:20",
+      "description": ""
+    },
+    {
+      "title": "硕博研究生招生宣讲会（杭州）",
+      "location": "杭州JW万豪酒店，会议室3（杭州市拱墅区湖墅南路28号）",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=df164b1f-543c-47be-8592-f916abd3b8fb&language=zh",
+      "date_start": "2022-02-27",
+      "date_end": "2022-02-27",
+      "time_start": "15:00",
+      "time_end": "18:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学新年直播即将开启，邀您走近国际化校园",
+      "location": "微信，微博以及哔哩哔哩直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=3faf0f73-34dc-46e7-9f3d-14669d42965c&language=zh",
+      "date_start": "2022-01-23",
+      "date_end": "2022-01-23",
+      "time_start": "09:00",
+      "time_end": "11:30",
+      "description": ""
+    },
+    {
+      "title": "人文与社科学院及理工学院硕博项目线上分享会",
+      "location": "腾讯会议",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=441725e1-0d09-4452-aecd-350dcc370c74&language=zh",
+      "date_start": "2022-01-20",
+      "date_end": "2022-01-21",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学硕博项目线上分享会",
+      "location": "腾讯会议",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=477ea2ad-432a-41bb-ba1e-f4d6aa3ccb7f&language=zh",
+      "date_start": "2021-12-29",
+      "date_end": "2021-12-29",
+      "time_start": "14:00",
+      "time_end": "15:30",
+      "description": ""
+    },
+    {
+      "title": "2021国际残疾人日宣传活动",
+      "location": "校园内多处活动地点",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=cc4f2e53-233d-4663-8097-960d6419a2fe&language=zh",
+      "date_start": "2021-12-01",
+      "date_end": "2021-12-06",
+      "time_start": "09:00",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "2021冬季毕业典礼",
+      "location": "D.H. Lawrence Auditorium",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=45b3b2f4-dc41-4922-b5b8-8395d7236315&language=zh",
+      "date_start": "2021-11-13",
+      "date_end": "2021-11-13",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2021年新生注册和入学周",
+      "location": "宁诺校园",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=694f584a-d3f4-4b55-a66c-74b8da235e62&language=zh",
+      "date_start": "2021-09-08",
+      "date_end": "2021-09-19",
+      "time_start": "09:00",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "2021年暑期毕业典礼",
+      "location": "D.H. Lawrence Auditorium",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=e80b880f-5767-47b2-b51c-495787ab3e9c&language=zh",
+      "date_start": "2021-07-10",
+      "date_end": "2021-07-11",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "高考志愿填报指导",
+      "location": "校园",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=afa087b1-b72c-49a1-a4d7-8c8ef3abe071&language=zh",
+      "date_start": "2021-06-23",
+      "date_end": "2021-06-30",
+      "time_start": "09:00",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "迷你开放日",
+      "location": "On Campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=3252db78-7c2b-436b-b4cb-667570098002&language=zh",
+      "date_start": "2021-05-09",
+      "date_end": "2021-05-09",
+      "time_start": "12:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "2021春季宁诺硕博研究生项目全国宣讲会",
+      "location": "全国七城",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=9c770f77-81a2-48d2-8842-a5d33bd362ff&language=zh",
+      "date_start": "2021-04-17",
+      "date_end": "2021-04-25",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "迷你开放日",
+      "location": "On Campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=ba3cabb4-f248-4886-b2c0-a38536921dc4&language=zh",
+      "date_start": "2021-04-10",
+      "date_end": "2021-04-10",
+      "time_start": "12:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "迷你开放日 - 硕博专场",
+      "location": "Campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=baf47f0c-8450-4b90-8823-119d7678bec5&language=zh",
+      "date_start": "2021-03-20",
+      "date_end": "2021-03-20",
+      "time_start": "12:30",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "EDI活动周时间表",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=aaee4a21-47e1-4851-8cba-53e71211bf60&language=zh",
+      "date_start": "2021-03-08",
+      "date_end": "2021-03-31",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "春季学期开始",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=c26f41a1-e25f-4aac-8a32-b7f994cbb642&language=zh",
+      "date_start": "2021-02-22",
+      "date_end": "2021-02-26",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "寒假留校师生活动",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=65dd4a29-15e0-4740-954e-91f2e213cfd6&language=zh",
+      "date_start": "2021-02-17",
+      "date_end": "2021-02-17",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2021全球领导力在线研讨会",
+      "location": "Zoom",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=9e579f59-fb95-455a-aa29-86ecff050756&language=zh",
+      "date_start": "2021-01-21",
+      "date_end": "2021-01-21",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2021宁诺硕博研究生项目南昌宣讲会",
+      "location": "南昌",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=9e6bcc6c-d07a-496a-8a70-5b908779d118&language=zh",
+      "date_start": "2020-12-29",
+      "date_end": "2020-12-29",
+      "time_start": "10:00",
+      "time_end": "12:00",
+      "description": ""
+    },
+    {
+      "title": "2020 宁诺迷你开放日",
+      "location": "The Lord Dearing Building (DB) A05",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=b76ecf7f-ca0c-4d87-9e98-41df6429be7b&language=zh",
+      "date_start": "2020-12-05",
+      "date_end": "2020-12-05",
+      "time_start": "13:00",
+      "time_end": "16:30",
+      "description": ""
+    },
+    {
+      "title": "2021宁诺硕博研究生项目北京、南京、西安宣讲会",
+      "location": "北京、南京、西安",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=89cfa8dd-20d3-4610-9bb4-59bc29b4d15b&language=zh",
+      "date_start": "2020-11-22",
+      "date_end": "2020-12-02",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "体育项目-洞穴探险",
+      "location": "Quzhou",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=fd5ed2d1-522b-4848-9292-ae9be8836221&language=zh",
+      "date_start": "2020-11-21",
+      "date_end": "2020-11-22",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2020冬季毕业典礼",
+      "location": "D.H. Lawrence Auditorium",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=5da6b3fc-abe4-4349-b732-a7a82a426ee2&language=zh",
+      "date_start": "2020-11-14",
+      "date_end": "2020-11-14",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2021宁诺硕博研究生项目长三角大湾区六城市宣讲会",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=ce64f850-58b5-4e03-81f5-14e376a3f3c2&language=zh",
+      "date_start": "2020-10-14",
+      "date_end": "2020-10-21",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "校历：国庆和中秋假期",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=e8ac39b6-bd1e-42a4-831c-e7bd3ab1d721&language=zh",
+      "date_start": "2020-09-29",
+      "date_end": "2020-10-03",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "体育项目 - 白水皮划艇",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=d67bafbf-991e-4da5-b194-7af4188f1f69&language=zh",
+      "date_start": "2020-09-25",
+      "date_end": "2020-09-27",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "新生开学典礼",
+      "location": "DH Lawrence Auditorium",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=c4996f13-6852-432e-8a73-6bcacb258009&language=zh",
+      "date_start": "2020-09-17",
+      "date_end": "2020-09-17",
+      "time_start": "09:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "新生家长会",
+      "location": "哔哩哔哩房间号：22024316",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=719a3164-fada-4d75-9f44-f42d59e73482&language=zh",
+      "date_start": "2020-09-14",
+      "date_end": "2020-09-16",
+      "time_start": "14:00",
+      "time_end": "16:30",
+      "description": ""
+    },
+    {
+      "title": "新生注册",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=fca260a6-7d44-4bc5-ab21-eedab85d740d&language=zh",
+      "date_start": "2020-09-14",
+      "date_end": "2020-09-16",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "新生辅导员线上见面会",
+      "location": "哔哩哔哩房间号：21938956",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=c6e70725-daf6-48d0-8cdb-2d3f6c267473&language=zh",
+      "date_start": "2020-09-10",
+      "date_end": "2020-09-10",
+      "time_start": "14:00",
+      "time_end": "15:30",
+      "description": ""
+    },
+    {
+      "title": "2020高考录取结果查询",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=766422bf-e550-4468-9ebb-f99a97bec265&language=zh",
+      "date_start": "2020-08-11",
+      "date_end": "2020-08-31",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学高中生夏校",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=31c5ef7c-e699-47b8-9f15-c146389c77e4&language=zh",
+      "date_start": "2020-08-02",
+      "date_end": "2020-08-08",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "双城十五年——宁波与诺丁汉的文化对话",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=17244a82-f8f2-4fbc-873f-9468ca2145de&language=zh",
+      "date_start": "2020-08-01",
+      "date_end": "2020-12-31",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "高考招生行程及联系方式",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=9e5bf769-35e8-426a-8015-9a70e7c2397c&language=zh",
+      "date_start": "2020-07-30",
+      "date_end": "2020-07-30",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "直播预告 | 宁诺云端毕业典礼",
+      "location": "D.H. 劳伦斯报告厅",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=ded221ac-61dc-40cd-b543-8553a6839705&language=zh",
+      "date_start": "2020-07-01",
+      "date_end": "2020-07-02",
+      "time_start": "10:30",
+      "time_end": "17:30",
+      "description": ""
+    },
+    {
+      "title": "辽宁｜宁波诺丁汉大学招生说明会线上直播",
+      "location": "高考宝线上直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=9d3cbc09-3982-4f2e-84f3-a1cdefb09d94&language=zh",
+      "date_start": "2020-06-29",
+      "date_end": "2020-06-29",
+      "time_start": "12:30",
+      "time_end": "14:00",
+      "description": ""
+    },
+    {
+      "title": "江西丨宁波诺丁汉大学线上宣讲会直播回放",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=286b0cc8-ac48-46d6-aca8-5ffad0c0167d&language=zh",
+      "date_start": "2020-06-02",
+      "date_end": "2020-06-02",
+      "time_start": "19:00",
+      "time_end": "20:00",
+      "description": ""
+    },
+    {
+      "title": "视频回放 | 2020年线上开放日直播",
+      "location": "今日头条、Bilibili、微博直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=cd5acdd4-f4d0-4dc3-9d1a-24567e411521&language=zh",
+      "date_start": "2020-05-24",
+      "date_end": "2020-05-24",
+      "time_start": "09:00",
+      "time_end": "12:00",
+      "description": ""
+    },
+    {
+      "title": "安徽丨宁波诺丁汉大学线上宣讲会直播",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=07d4b1f4-5ad1-4fd5-8dcd-6a1459858d58&language=zh",
+      "date_start": "2020-05-15",
+      "date_end": "2020-05-15",
+      "time_start": "19:00",
+      "time_end": "21:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学线上宣讲会直播·湖南",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=0d00a6b7-3e59-4597-bc9d-1ab501e54396&language=zh",
+      "date_start": "2020-05-08",
+      "date_end": "2020-05-08",
+      "time_start": "19:00",
+      "time_end": "20:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学五一线上宣讲会",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=139120c7-e4fd-43a4-9ae1-f900d2115cf2&language=zh",
+      "date_start": "2020-05-01",
+      "date_end": "2020-05-01",
+      "time_start": "20:00",
+      "time_end": "21:30",
+      "description": ""
+    },
+    {
+      "title": "诺丁汉大学商学院（中国）在校生及校友分享",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=53adb276-b785-4cf6-8832-145af4654407&language=zh",
+      "date_start": "2020-04-29",
+      "date_end": "2020-04-29",
+      "time_start": "19:30",
+      "time_end": "20:30",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学理工学院返校第一课",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=ade6d6c6-d205-4a85-9377-9b7b9f1e49ae&language=zh",
+      "date_start": "2020-04-28",
+      "date_end": "2020-04-28",
+      "time_start": "18:30",
+      "time_end": "19:00",
+      "description": ""
+    },
+    {
+      "title": "直播回放｜理工学院硕博研究生项目宣讲会",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=1ae39e89-03e8-4c45-8935-d60efb2139b4&language=zh",
+      "date_start": "2020-04-15",
+      "date_end": "2020-04-15",
+      "time_start": "14:00",
+      "time_end": "15:30",
+      "description": ""
+    },
+    {
+      "title": "宁诺硕博项目线上分享会",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=3ad93c62-1d51-4960-b548-a7306def1c0e&language=zh",
+      "date_start": "2020-04-11",
+      "date_end": "2020-04-11",
+      "time_start": "14:00",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学线上宣讲会直播·江苏",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=8566d887-351b-478b-ba68-48160418a051&language=zh",
+      "date_start": "2020-04-08",
+      "date_end": "2020-04-08",
+      "time_start": "18:00",
+      "time_end": "20:00",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学线上宣讲会直播·黑龙江",
+      "location": "Bilibili直播间",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=f78d123c-b557-48bb-94a7-17008aa73c58&language=zh",
+      "date_start": "2020-04-03",
+      "date_end": "2020-04-03",
+      "time_start": "18:00",
+      "time_end": "20:00",
+      "description": ""
+    },
+    {
+      "title": "线上公开课：践行初心 助力抗疫",
+      "location": "https://live.bilibili.com/22024316",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=cea47770-14aa-4f02-9784-acccb8766dfc&language=zh",
+      "date_start": "2020-03-25",
+      "date_end": "2020-03-25",
+      "time_start": "14:00",
+      "time_end": "15:30",
+      "description": ""
+    },
+    {
+      "title": "宁波诺丁汉大学3月2日开启线上教学，及更多通知",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=6b08785b-0a2d-43dd-81ac-edeff96a3433&language=zh",
+      "date_start": "2020-03-02",
+      "date_end": "2020-03-02",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2019-2020春季学期迷你开放日",
+      "location": "Lord Dearing Building",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=b68755a7-ce71-4d90-8e67-d79e9932ad2e&language=zh",
+      "date_start": "2020-02-22",
+      "date_end": "2020-06-14",
+      "time_start": "13:00",
+      "time_end": "17:30",
+      "description": ""
+    },
+    {
+      "title": "\"健康家庭-健康全球\"全植物医疗讲座",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=55bf731c-9fe9-40b9-9405-9c5ab109f84f&language=zh",
+      "date_start": "2019-12-14",
+      "date_end": "2019-12-15",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "中国文化课·研究性系列讲座",
+      "location": "on campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=e4f55a65-7396-4822-b8ac-1abb70ffd859&language=zh",
+      "date_start": "2019-12-13",
+      "date_end": "2019-12-13",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2019-2020秋季学期迷你开放日",
+      "location": "Lord Dearing Building",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=df243b44-1098-4687-a4ed-38efed042745&language=zh",
+      "date_start": "2019-12-07",
+      "date_end": "2019-12-07",
+      "time_start": "13:00",
+      "time_end": "17:30",
+      "description": ""
+    },
+    {
+      "title": "宁诺启动国际残疾人日系列活动",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=0a7de7b6-fe91-46e6-88b0-b3ceeb943d3c&language=zh",
+      "date_start": "2019-12-01",
+      "date_end": "2019-12-04",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2019冬季毕业典礼",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=66ef9caf-a6d9-4f68-a775-1d47d8ca9dbd&language=zh",
+      "date_start": "2019-11-16",
+      "date_end": "2019-11-16",
+      "time_start": "08:00",
+      "time_end": "17:30",
+      "description": ""
+    },
+    {
+      "title": "QS硕博交流咨询会",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=cb5091c6-9bc5-4521-a675-c21d65499b06&language=zh",
+      "date_start": "2019-10-31",
+      "date_end": "2019-11-16",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "中国文化课·研究性系列讲座",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=326fbd02-3866-4966-9f75-c5915fe8555d&language=zh",
+      "date_start": "2019-10-14",
+      "date_end": "2019-10-17",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2019新生周时间表",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=f7504f57-700e-4498-8be5-52302fbcd787&language=zh",
+      "date_start": "2019-09-14",
+      "date_end": "2019-09-22",
+      "time_start": "09:00",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "2019年本科新生预注册",
+      "location": "在线注册",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=33919e57-af95-4705-bb0e-ccfd660fac64&language=zh",
+      "date_start": "2019-08-03",
+      "date_end": "2019-08-24",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "2019夏季毕业典礼",
+      "location": "D.H. Lawrence Auditorium",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=971d98b2-5f17-421b-a9df-995c627e3646&language=zh",
+      "date_start": "2019-07-06",
+      "date_end": "2019-07-07",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "夏日木球活动",
+      "location": "Sports centre",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=538ce795-005e-440f-9970-9c462cca3cb5&language=zh",
+      "date_start": "2019-07-03",
+      "date_end": "2019-09-03",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "迷你开放日 – 本科生专场",
+      "location": "The Lord Dearing Building",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=60e33780-13bc-4d0d-b7dd-28ee72dc02c7&language=zh",
+      "date_start": "2019-06-16",
+      "date_end": "2019-09-16",
+      "time_start": "13:00",
+      "time_end": "17:00",
+      "description": ""
+    },
+    {
+      "title": "中国文化课·研究性系列讲座",
+      "location": "On Campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=532135be-91e9-42d8-b010-e701cbb5ecb1&language=zh",
+      "date_start": "2019-04-15",
+      "date_end": "2019-04-15",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    },
+    {
+      "title": "欢迎参加宁波诺丁汉大学十五周年开放日",
+      "location": "On campus",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=dc9dd9b5-abf3-4e80-92c9-58c555a2b3e1&language=zh",
+      "date_start": "2019-04-14",
+      "date_end": "2019-04-14",
+      "time_start": "08:30",
+      "time_end": "16:00",
+      "description": ""
+    },
+    {
+      "title": "QS硕博交流咨询会邀请函",
+      "location": "",
+      "link": "https://www.nottingham.edu.cn/cn/events/event-details.aspx?id=91fb1d73-3b88-4ec9-a18c-4b1b18f40c5d&language=zh",
+      "date_start": "2019-04-06",
+      "date_end": "2019-04-06",
+      "time_start": "00:00",
+      "time_end": "00:00",
+      "description": ""
+    }
+  ]
+}
